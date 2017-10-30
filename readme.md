@@ -1,4 +1,6 @@
 # AnimAPEX
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vincentmorneau/animapex.svg)](https://greenkeeper.io/)
 [![APEX Plugin](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg)](https://cdn.rawgit.com/Dani3lSun/apex-github-badges)
 a dynamic action plugin to easily animate any APEX component.
 
